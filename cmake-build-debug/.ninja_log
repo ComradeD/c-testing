@@ -1,0 +1,5 @@
+# ninja log v5
+1	308	7122339925332244	CMakeFiles/testmemory.dir/main.cpp.obj	e68561464778f436
+311	399	7122339926242527	testmemory.exe	be8583ac27a19f6d
+2	505	7122396811506733	CMakeFiles/testmemory.dir/main.cpp.obj	e68561464778f436
+505	642	7122396812845206	testmemory.exe	be8583ac27a19f6d
